@@ -95,7 +95,7 @@ curl -X POST http://localhost:8083/connectors -H "Content-Type: application/json
 }'
 ```
 
-### 4. Создание таблицы Iceberg через Trino
+### Создание таблицы Iceberg через Trino
 ```bash
 docker exec -it trino trino --execute "
   CREATE SCHEMA IF NOT EXISTS iceberg.default;
@@ -126,7 +126,8 @@ docker exec -it trino trino --execute "
 | `docker exec -it kafka kafka-console-consumer …` | |
 | ![Сообщение в Kafka-топике](image-2.png) | |
 | 🌐 **Trino Web UI** | Мониторинг запросов в браузере |
-| Открыть [http://localhost:8080/ui](http://localhost:8080/ui) | |
+| [http://localhost:8080/ui](http://localhost:8080/ui) | |
+| ![Результат](image-7.png) | |
 | ❄️ **Запрос в Iceberg** | Прямой SQL‑запрос через Trino CLI |
 | `docker exec -it trino trino --execute "SELECT * FROM iceberg.default.currency_rates;"` | |
 | ![Результат SQL-запроса](image-3.png) | |
