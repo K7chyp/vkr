@@ -1,0 +1,7 @@
+{"BlockIO":"189MB / 2.94MB","CPUPerc":"51.32%","Container":"826354fd9442","ID":"826354fd9442","MemPerc":"28.01%","MemUsage":"1.12GiB / 4GiB","Name":"trino","NetIO":"6.2kB / 3.66kB","PIDs":"136"}
+{"BlockIO":"295MB / 393kB","CPUPerc":"51.48%","Container":"b5c422fbf6ce","ID":"b5c422fbf6ce","MemPerc":"6.97%","MemUsage":"546.4MiB / 7.654GiB","Name":"debezium_connect","NetIO":"1.17MB / 8.34MB","PIDs":"65"}
+{"BlockIO":"105MB / 868kB","CPUPerc":"59.80%","Container":"df216238832b","ID":"df216238832b","MemPerc":"3.90%","MemUsage":"306MiB / 7.654GiB","Name":"nessie","NetIO":"8.76kB / 4.3kB","PIDs":"34"}
+{"BlockIO":"102MB / 3.81MB","CPUPerc":"54.96%","Container":"39175cc5dfbb","ID":"39175cc5dfbb","MemPerc":"5.89%","MemUsage":"461.5MiB / 7.654GiB","Name":"kafka","NetIO":"8.36MB / 5.87MB","PIDs":"86"}
+{"BlockIO":"72.7MB / 39.7MB","CPUPerc":"4.18%","Container":"d2e7639aa5e1","ID":"d2e7639aa5e1","MemPerc":"1.14%","MemUsage":"89.35MiB / 7.654GiB","Name":"cbrf_pg","NetIO":"298kB / 844kB","PIDs":"10"}
+{"BlockIO":"60.9MB / 307kB","CPUPerc":"0.07%","Container":"989eb9a82697","ID":"989eb9a82697","MemPerc":"1.62%","MemUsage":"126.6MiB / 7.654GiB","Name":"zookeeper","NetIO":"32.2kB / 37.6kB","PIDs":"60"}
+{"BlockIO":"152MB / 20.5kB","CPUPerc":"12.67%","Container":"ec8beb8e2931","ID":"ec8beb8e2931","MemPerc":"2.53%","MemUsage":"198.2MiB / 7.654GiB","Name":"minio","NetIO":"23.5kB / 10.2kB","PIDs":"13"}

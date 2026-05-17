@@ -1,0 +1,258 @@
+/Users/n.voronov/PycharmProjects/hse/.venv/lib/python3.9/site-packages/urllib3/__init__.py:35: NotOpenSSLWarning: urllib3 v2 only supports OpenSSL 1.1.1+, currently the 'ssl' module is compiled with 'LibreSSL 2.8.3'. See: https://github.com/urllib3/urllib3/issues/3020
+  warnings.warn(
+mismatched tag: line 1, column 215
+mismatched tag: line 1, column 215
+mismatched tag: line 1, column 215
+✓ 01/01/2026 — загружено 55 валют (ts=2026-05-16 22:53:10.374690+00:00)
+✓ 02/01/2026 — загружено 55 валют (ts=2026-05-16 22:53:10.535770+00:00)
+✓ 03/01/2026 — загружено 55 валют (ts=2026-05-16 22:53:10.626197+00:00)
+✓ 04/01/2026 — загружено 55 валют (ts=2026-05-16 22:53:10.804661+00:00)
+✓ 05/01/2026 — загружено 55 валют (ts=2026-05-16 22:53:10.956806+00:00)
+✓ 06/01/2026 — загружено 55 валют (ts=2026-05-16 22:53:11.047890+00:00)
+✓ 07/01/2026 — загружено 55 валют (ts=2026-05-16 22:53:11.203872+00:00)
+✓ 08/01/2026 — загружено 55 валют (ts=2026-05-16 22:53:11.288364+00:00)
+✓ 09/01/2026 — загружено 55 валют (ts=2026-05-16 22:53:11.455982+00:00)
+✓ 10/01/2026 — загружено 55 валют (ts=2026-05-16 22:53:11.633033+00:00)
+✓ 11/01/2026 — загружено 55 валют (ts=2026-05-16 22:53:11.808505+00:00)
+✓ 12/01/2026 — загружено 55 валют (ts=2026-05-16 22:53:12.026538+00:00)
+✓ 13/01/2026 — загружено 54 валют (ts=2026-05-16 22:53:12.146799+00:00)
+✓ 14/01/2026 — загружено 54 валют (ts=2026-05-16 22:53:12.244669+00:00)
+✓ 15/01/2026 — загружено 54 валют (ts=2026-05-16 22:53:12.339489+00:00)
+✓ 16/01/2026 — загружено 54 валют (ts=2026-05-16 22:53:12.438193+00:00)
+✓ 17/01/2026 — загружено 54 валют (ts=2026-05-16 22:53:12.547802+00:00)
+✓ 18/01/2026 — загружено 54 валют (ts=2026-05-16 22:53:12.644714+00:00)
+✓ 19/01/2026 — загружено 54 валют (ts=2026-05-16 22:53:12.775555+00:00)
+✓ 20/01/2026 — загружено 54 валют (ts=2026-05-16 22:53:12.872307+00:00)
+✓ 21/01/2026 — загружено 54 валют (ts=2026-05-16 22:53:13.008022+00:00)
+✓ 22/01/2026 — загружено 54 валют (ts=2026-05-16 22:53:13.121066+00:00)
+✓ 23/01/2026 — загружено 54 валют (ts=2026-05-16 22:53:13.221557+00:00)
+✓ 24/01/2026 — загружено 54 валют (ts=2026-05-16 22:53:13.318567+00:00)
+✓ 25/01/2026 — загружено 54 валют (ts=2026-05-16 22:53:13.414763+00:00)
+✓ 26/01/2026 — загружено 54 валют (ts=2026-05-16 22:53:13.529078+00:00)
+✓ 27/01/2026 — загружено 54 валют (ts=2026-05-16 22:53:13.619494+00:00)
+✓ 28/01/2026 — загружено 54 валют (ts=2026-05-16 22:53:13.735653+00:00)
+✓ 29/01/2026 — загружено 54 валют (ts=2026-05-16 22:53:13.819317+00:00)
+✓ 30/01/2026 — загружено 54 валют (ts=2026-05-16 22:53:13.923607+00:00)
+✓ 31/01/2026 — загружено 54 валют (ts=2026-05-16 22:53:14.010373+00:00)
+✓ 01/02/2026 — загружено 54 валют (ts=2026-05-16 22:53:14.107118+00:00)
+✓ 02/02/2026 — загружено 54 валют (ts=2026-05-16 22:53:14.216374+00:00)
+✓ 03/02/2026 — загружено 54 валют (ts=2026-05-16 22:53:14.302534+00:00)
+✓ 04/02/2026 — загружено 54 валют (ts=2026-05-16 22:53:14.409913+00:00)
+✓ 05/02/2026 — загружено 54 валют (ts=2026-05-16 22:53:14.524534+00:00)
+✓ 06/02/2026 — загружено 54 валют (ts=2026-05-16 22:53:14.625879+00:00)
+✓ 07/02/2026 — загружено 54 валют (ts=2026-05-16 22:53:14.722520+00:00)
+✓ 08/02/2026 — загружено 54 валют (ts=2026-05-16 22:53:14.825163+00:00)
+✓ 09/02/2026 — загружено 54 валют (ts=2026-05-16 22:53:14.950806+00:00)
+✓ 10/02/2026 — загружено 54 валют (ts=2026-05-16 22:53:15.063993+00:00)
+✓ 11/02/2026 — загружено 54 валют (ts=2026-05-16 22:53:15.154082+00:00)
+✓ 12/02/2026 — загружено 54 валют (ts=2026-05-16 22:53:15.245661+00:00)
+✓ 13/02/2026 — загружено 54 валют (ts=2026-05-16 22:53:15.346265+00:00)
+✓ 14/02/2026 — загружено 54 валют (ts=2026-05-16 22:53:15.438099+00:00)
+✓ 15/02/2026 — загружено 54 валют (ts=2026-05-16 22:53:15.548264+00:00)
+✓ 16/02/2026 — загружено 54 валют (ts=2026-05-16 22:53:15.669015+00:00)
+✓ 17/02/2026 — загружено 54 валют (ts=2026-05-16 22:53:15.786394+00:00)
+✓ 18/02/2026 — загружено 54 валют (ts=2026-05-16 22:53:15.881663+00:00)
+✓ 19/02/2026 — загружено 54 валют (ts=2026-05-16 22:53:15.976511+00:00)
+✓ 20/02/2026 — загружено 54 валют (ts=2026-05-16 22:53:16.110784+00:00)
+✓ 21/02/2026 — загружено 54 валют (ts=2026-05-16 22:53:16.208868+00:00)
+✓ 22/02/2026 — загружено 54 валют (ts=2026-05-16 22:53:16.312437+00:00)
+✓ 23/02/2026 — загружено 54 валют (ts=2026-05-16 22:53:16.429902+00:00)
+✓ 24/02/2026 — загружено 54 валют (ts=2026-05-16 22:53:16.709146+00:00)
+✓ 25/02/2026 — загружено 54 валют (ts=2026-05-16 22:53:16.800514+00:00)
+✓ 26/02/2026 — загружено 54 валют (ts=2026-05-16 22:53:16.911195+00:00)
+✓ 27/02/2026 — загружено 54 валют (ts=2026-05-16 22:53:17.012075+00:00)
+✓ 28/02/2026 — загружено 54 валют (ts=2026-05-16 22:53:17.143804+00:00)
+✓ 01/03/2026 — загружено 54 валют (ts=2026-05-16 22:53:17.296938+00:00)
+✓ 02/03/2026 — загружено 54 валют (ts=2026-05-16 22:53:17.405966+00:00)
+mismatched tag: line 1, column 215
+mismatched tag: line 1, column 215
+✓ 01/01/2026 — загружено 55 валют (ts=2026-05-16 22:54:14.665061+00:00)
+✓ 02/01/2026 — загружено 55 валют (ts=2026-05-16 22:54:15.703011+00:00)
+✓ 03/01/2026 — загружено 55 валют (ts=2026-05-16 22:54:16.111674+00:00)
+✓ 04/01/2026 — загружено 55 валют (ts=2026-05-16 22:54:16.352227+00:00)
+✓ 05/01/2026 — загружено 55 валют (ts=2026-05-16 22:54:16.549863+00:00)
+✓ 06/01/2026 — загружено 55 валют (ts=2026-05-16 22:56:30.478293+00:00)
+Ошибка при загрузке 07/01/2026: could not extend file "base/16384/16436": I/O error
+HINT:  Check free disk space.
+
+connection already closed
+connection to server at "localhost" (::1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+connection to server at "localhost" (::1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+connection to server at "localhost" (::1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+connection to server at "localhost" (::1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+connection to server at "localhost" (::1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+connection to server at "localhost" (::1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+connection to server at "localhost" (::1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+connection to server at "localhost" (::1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+connection to server at "localhost" (::1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+connection to server at "localhost" (::1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+connection to server at "localhost" (::1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+connection to server at "localhost" (::1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+connection to server at "localhost" (::1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+connection to server at "localhost" (::1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+connection to server at "localhost" (::1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+connection to server at "localhost" (::1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+connection to server at "localhost" (::1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+connection to server at "localhost" (::1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+connection to server at "localhost" (::1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+connection to server at "localhost" (::1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+connection to server at "localhost" (::1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+connection to server at "localhost" (::1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+connection to server at "localhost" (::1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+connection to server at "localhost" (::1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+connection to server at "localhost" (::1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+connection to server at "localhost" (::1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+connection to server at "localhost" (::1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+connection to server at "localhost" (::1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+connection to server at "localhost" (::1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+connection to server at "localhost" (::1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+connection to server at "localhost" (::1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+connection to server at "localhost" (::1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+connection to server at "localhost" (::1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+connection to server at "localhost" (::1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+connection to server at "localhost" (::1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+connection to server at "localhost" (::1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
